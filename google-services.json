@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "115452545590",
+    "firebase_url": "https://goingdutch-fb65b.firebaseio.com",
+    "project_id": "goingdutch-fb65b",
+    "storage_bucket": "goingdutch-fb65b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115452545590:android:fef4e14b5a83a691",
+        "android_client_info": {
+          "package_name": "com.hckim.goingdutch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115452545590-ibu3todhu4gjhve1fejlhgit6g4he08o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hckim.goingdutch",
+            "certificate_hash": "f3ada8c75b7f98acc7e42034e34a9fbd0f28a7fc"
+          }
+        },
+        {
+          "client_id": "115452545590-bl3cqjlsje8teilttst5bv6ir3pofso7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOucbmj4kZPH3fbnnhP8Kyz3a86AW5cJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115452545590-bl3cqjlsje8teilttst5bv6ir3pofso7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
